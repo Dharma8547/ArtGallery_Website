@@ -16,4 +16,4 @@ And the admin can see all of the transactions and quesries, if anything happens 
 
 ----------------------------------------------------------------------------------------------------------------------
 #Additional Info:
-In sql file, I created in well-manner that each details will be secured in its respective tables with the help pf the XAMPP.
+In sql file, I created in well-manner that each details will be secured in its respective tables with the help of the XAMPP.
